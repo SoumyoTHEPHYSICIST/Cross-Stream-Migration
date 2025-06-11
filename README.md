@@ -1,5 +1,5 @@
 # Cross-Stream-Migration
-# 🌀 Cross-Stream Migration of a Rigid Sphere in 2D Poiseuille Flow
+#  Cross-Stream Migration of a Rigid Sphere in 2D Poiseuille Flow
 
 Hey there! 👋  
 This project dives into the fascinating world of how tiny particles (rigid spheres) move sideways (cross-stream) in a fluid flowing between two plates — specifically in **viscoelastic (non-Newtonian) fluids**.
@@ -14,7 +14,7 @@ Let’s break things down 👇
 
 ---
 
-## 🚀 The Big Idea
+##  The Big Idea
 
 Normally, particles in low Reynolds number flows just go with the flow. But real life isn’t always that simple — sometimes they move sideways across streamlines. This lateral migration can happen due to:
 - Inertia (in Newtonian fluids)
@@ -25,7 +25,7 @@ And that’s what this work is all about.
 
 ---
 
-## 🔍 Topics Covered
+##  Topics Covered
 
 ### 1. **Inertial Migration (Newtonian Fluid)**  
 - At very low inertia (Re → 0), particles don’t migrate laterally.
@@ -73,7 +73,7 @@ Used simple explicit Euler method to plot trajectories:
 
 ---
 
-## 🧠 Cool Observations
+##  Cool Observations
 
 - The **lift force** from electrophoresis is stronger than viscoelastic migration alone.
 - In sedimentation, the **buoyancy number (B)** is the big influencer.
@@ -82,7 +82,7 @@ Used simple explicit Euler method to plot trajectories:
 
 ---
 
-## 🛠 How We Did It
+##  How We Did It
 
 - **Asymptotic expansion** of velocity and stress fields
 - Used **Lamb’s general solution** for reflections
@@ -90,7 +90,7 @@ Used simple explicit Euler method to plot trajectories:
 
 ---
 
-## 🔮 What's Next?
+##  What's Next?
 
 Some future directions we’re working on:
 - Derive full first-order velocity fields and compare lift from both LRT and direct integration
@@ -99,7 +99,7 @@ Some future directions we’re working on:
 
 ---
 
-## 📚 References
+##  References
 
 - Choudhary et al., *J. Fluid Mech.*, 2019 & 2020  
 - Ho & Leal, *J. Fluid Mech.*, 1976  
@@ -107,7 +107,7 @@ Some future directions we’re working on:
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Soumyodeep Chowdhury**  
 - soumyodeep24@iitk.ac.in
